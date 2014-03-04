@@ -1,0 +1,9 @@
+v1.0.2
+Update (no comment)
+Still not fully functioning
+
+v1.0.1
+Bug Fix
+
+v1.0.0
+Initial Release

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.hdboxcoder" name="HDBOX Installer" version="1.0.2" provider-name="HDMEDIABOX">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">en</summary>
+    <description lang="en">Enter the codeword to run a public update.  See www.hdmedizbox.com to create your own updates.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
